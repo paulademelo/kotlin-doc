@@ -6,7 +6,7 @@ a estrutura básica do código ANSI é assim:
 
 - \u001b[ aqui vão dois dígitos]m
 
-  - esses dois dígitos que será colocado entre as barras, irá de 30 até 37
+  - esses dois dígitos que serão colocados entre as barras, vão de 30 até 37
 
   - Respectivas cores: 
 
