@@ -1,4 +1,4 @@
-## :triangular_flag_on_post: Operadores Lógicos
+## :triangular_flag_on_post: Operadores de atribuição
 
 Operadores de atribuição do Kotlin:
 
