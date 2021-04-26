@@ -28,7 +28,7 @@ a estrutura básica do código ANSI é assim:
 
     37 - branco  ---> \u001b[37]m :white_flag:
 
-- Basta colocar este código dentro da string que a string ficará com a respectiva cor.
+- Basta colocar este código dentro da string que ela com a respectiva cor.
 
   - ex:
 
